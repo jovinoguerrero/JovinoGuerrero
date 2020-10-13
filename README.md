@@ -18,6 +18,6 @@
 [buymeacoffee]: https://www.buymeacoffee.com/jovinocoffee
 [buymeacoffee-shield]: https://www.buymeacoffee.com/assets/img/custom_images/purple_img.png
 
-[![Visits Badge](https://badges.pufler.dev/visits/DenisAzeved0/DenisAzeved0)](https://github.com/jovinoguerrero)
+[![Visits Badge](https://badges.pufler.dev/visits/jovinoguerrero/jovinoguerrero)](https://github.com/jovinoguerrero)
 
 <!--[![GitHub watchers](https://img.shields.io/github/watchers/jovinoguerrero/jovinoguerrero?color=gree&label=Visits)](https://github.com/jovinoguerrero)-->
