@@ -1,8 +1,10 @@
 <!--# Jovino G Toledo [![followersGit](https://img.shields.io/github/followers/jovinoguerrero?style=social)](https://github.com/jovinoguerrero)-->
 
-# Hi there 👋 I'm Jovino G Toledo 👨‍💻
+# Hi there 👋 I'm [Jovino G Toledo](https://jovinoguerrero.github.io) 👨‍💻
 
-## [![statsGit](https://github-readme-stats.vercel.app/api?username=jovinoguerrero&show_icons=true&theme=dracula)](https://github.com/jovinoguerrero)
+## [![statsGit](https://github-readme-stats.vercel.app/api?username=jovinoguerrero&show_icons=true&theme=flag-india)](https://github.com/jovinoguerrero)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jovinoguerrero&repo=jovinoguerrero.github.io&show_owner=true&theme=flag-india)](https://jovinoguerrero.github.io) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jovinoguerrero&layout=compact&show_icons=true&theme=flag-india)](https://github.com/jovinoguerrero?tab=repositories)
 
 <!--[![git](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github)](https://github.com/jovinoguerrero)-->
 [![linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/jovinoguerrero/)
@@ -16,8 +18,10 @@
 [![bmc][buymeacoffee-shield]][buymeacoffee]
 
 [buymeacoffee]: https://www.buymeacoffee.com/jovinocoffee
-[buymeacoffee-shield]: https://www.buymeacoffee.com/assets/img/custom_images/purple_img.png
+[buymeacoffee-shield]: https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png
 
+[![Commits Badge](https://badges.pufler.dev/commits/monthly/jovinoguerrero)](https://github.com/jovinoguerrero)
+[![Repos Badge](https://badges.pufler.dev/repos/jovinoguerrero)](https://github.com/jovinoguerrero)
 [![Visits Badge](https://badges.pufler.dev/visits/jovinoguerrero/jovinoguerrero)](https://github.com/jovinoguerrero)
 
 <!--[![GitHub watchers](https://img.shields.io/github/watchers/jovinoguerrero/jovinoguerrero?color=gree&label=Visits)](https://github.com/jovinoguerrero)-->
