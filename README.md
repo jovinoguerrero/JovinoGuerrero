@@ -22,6 +22,6 @@
 
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/jovinoguerrero)](https://github.com/jovinoguerrero)
 [![Repos Badge](https://badges.pufler.dev/repos/jovinoguerrero)](https://github.com/jovinoguerrero)
-[![Visits Badge](https://badges.pufler.dev/visits/jovinoguerrero/jovinoguerrero)](https://github.com/jovinoguerrero)
+[![Visits Badge](https://visitor-badge.glitch.me/badge?page_id=jovinoguerrero.visitor-badge)](https://github.com/jovinoguerrero)
 
 <!--[![GitHub watchers](https://img.shields.io/github/watchers/jovinoguerrero/jovinoguerrero?color=gree&label=Visits)](https://github.com/jovinoguerrero)-->
