@@ -4,7 +4,7 @@
 
 ## [![statsGit](https://github-readme-stats.vercel.app/api?username=jovinoguerrero&show_icons=true&theme=prussian&count_private=true)](https://github.com/jovinoguerrero)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jovinoguerrero&layout=compact&show_icons=true&theme=prussian&langs_count=6&hide=html)](https://github.com/jovinoguerrero?tab=repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jovinoguerrero&layout=compact&show_icons=true&theme=prussian&langs_count=6&hide=html,css)](https://github.com/jovinoguerrero?tab=repositories)
 
 <!--[![git](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github)](https://github.com/jovinoguerrero)-->
 [![linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/jovinoguerrero/)
